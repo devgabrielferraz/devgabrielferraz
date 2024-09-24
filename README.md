@@ -28,3 +28,12 @@
           
           
 </div>
+
+<br>
+<div style="display: inline_block">
+<h3>Redes Sociais</h3>
+<a href="https://www.linkedin.com/in/gabriel-ferraz-dev/">
+<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
+</div>
+
