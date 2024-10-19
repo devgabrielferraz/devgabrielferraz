@@ -29,6 +29,12 @@
           
           
 </div>
+<br>
+<div style="display: inline_block">
+<h3>Cloud Services</h3>
+<img align="center" alt="Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+          
+</div>
 
 <br>
 <div style="display: inline_block">
