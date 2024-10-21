@@ -4,8 +4,8 @@
   <br>
   <a href="https://github.com/devgabrielferraz">
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgabrielferraz&show_icons=true&theme=dark&cache_seconds=1800">
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielferraz&layout=compact&theme=dark&cache_seconds=1800">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgabrielferraz&show_icons=true&theme=dark&cache_seconds=900">
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielferraz&layout=compact&theme=dark&cache_seconds=900">
 
 </div>
 
